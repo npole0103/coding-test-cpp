@@ -148,6 +148,11 @@
     <ClCompile Include="DP-Tiling-1.cpp" />
     <ClCompile Include="DP-Tiling-2.cpp" />
     <ClCompile Include="DP-Tiling-3.cpp" />
+    <ClCompile Include="Greedy-30.cpp" />
+    <ClCompile Include="Greedy-LostParenthesis.cpp" />
+    <ClCompile Include="Greedy-Newcomer.cpp" />
+    <ClCompile Include="Greedy-OneLine.cpp" />
+    <ClCompile Include="Greedy-Rope.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
     <ClCompile Include="Kruskal.cpp" />
