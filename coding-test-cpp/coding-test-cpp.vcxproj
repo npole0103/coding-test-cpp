@@ -145,6 +145,7 @@
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="ClawCrane.cpp" />
     <ClCompile Include="CountingSort.cpp" />
+    <ClCompile Include="FailureRate.cpp" />
     <ClCompile Include="DFS.cpp" />
     <ClCompile Include="Dijkstra.cpp" />
     <ClCompile Include="DP-1.cpp" />
@@ -160,14 +161,18 @@
     <ClCompile Include="Greedy-OneLine.cpp" />
     <ClCompile Include="Greedy-Rope.cpp" />
     <ClCompile Include="Greedy-Scale.cpp" />
+    <ClCompile Include="GymSuit.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
     <ClCompile Include="KeyPad.cpp" />
     <ClCompile Include="Kruskal.cpp" />
+    <ClCompile Include="Lotto.cpp" />
+    <ClCompile Include="Marathon.cpp" />
     <ClCompile Include="MBTI.cpp" />
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="NewId.cpp" />
     <ClCompile Include="PrimeNumber.cpp" />
+    <ClCompile Include="QueueSum.cpp" />
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="ReportResult.cpp" />
     <ClCompile Include="Sort-1.cpp" />

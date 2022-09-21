@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\KAKAO_INTERN">
       <UniqueIdentifier>{4f441d73-1374-4e62-a480-fa526f0db7a8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DEV_MATCHING">
+      <UniqueIdentifier>{860b1890-3af0-44bf-bd40-046fddc72c81}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Template.cpp">
@@ -142,6 +145,21 @@
       <Filter>소스 파일\KAKAO_INTERN</Filter>
     </ClCompile>
     <ClCompile Include="KeyPad.cpp">
+      <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
+    <ClCompile Include="Marathon.cpp">
+      <Filter>소스 파일\LEVEL_1</Filter>
+    </ClCompile>
+    <ClCompile Include="GymSuit.cpp">
+      <Filter>소스 파일\LEVEL_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lotto.cpp">
+      <Filter>소스 파일\DEV_MATCHING</Filter>
+    </ClCompile>
+    <ClCompile Include="FailureRate.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueSum.cpp">
       <Filter>소스 파일\KAKAO_INTERN</Filter>
     </ClCompile>
   </ItemGroup>
