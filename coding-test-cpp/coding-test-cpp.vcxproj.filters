@@ -162,5 +162,14 @@
     <ClCompile Include="QueueSum.cpp">
       <Filter>소스 파일\KAKAO_INTERN</Filter>
     </ClCompile>
+    <ClCompile Include="Archery.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
+    <ClCompile Include="ParkingFee.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
+    <ClCompile Include="SecretMap.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

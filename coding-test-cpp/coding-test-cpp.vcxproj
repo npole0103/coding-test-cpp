@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Archery.cpp" />
     <ClCompile Include="BackTracking-NAndM.cpp" />
     <ClCompile Include="BackTracking-NQueen.cpp" />
     <ClCompile Include="BFS.cpp" />
@@ -171,10 +172,12 @@
     <ClCompile Include="MBTI.cpp" />
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="NewId.cpp" />
+    <ClCompile Include="ParkingFee.cpp" />
     <ClCompile Include="PrimeNumber.cpp" />
     <ClCompile Include="QueueSum.cpp" />
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="ReportResult.cpp" />
+    <ClCompile Include="SecretMap.cpp" />
     <ClCompile Include="Sort-1.cpp" />
     <ClCompile Include="Sort-2.cpp" />
     <ClCompile Include="Sort-3.cpp" />
