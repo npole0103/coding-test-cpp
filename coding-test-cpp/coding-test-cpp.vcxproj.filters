@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\DEV_MATCHING">
       <UniqueIdentifier>{860b1890-3af0-44bf-bd40-046fddc72c81}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LEVLE_2">
+      <UniqueIdentifier>{a97f1037-ecd3-4ec5-8381-e857444364ad}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Template.cpp">
@@ -173,6 +176,12 @@
     </ClCompile>
     <ClCompile Include="K-Prime.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
+    <ClCompile Include="Fatigue.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="SliceNNArr.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

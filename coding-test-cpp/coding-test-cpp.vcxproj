@@ -153,6 +153,7 @@
     <ClCompile Include="DP-Tiling-1.cpp" />
     <ClCompile Include="DP-Tiling-2.cpp" />
     <ClCompile Include="DP-Tiling-3.cpp" />
+    <ClCompile Include="Fatigue.cpp" />
     <ClCompile Include="Greedy-30.cpp" />
     <ClCompile Include="Greedy-DNA.cpp" />
     <ClCompile Include="Greedy-Knight.cpp" />
@@ -179,6 +180,7 @@
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="ReportResult.cpp" />
     <ClCompile Include="SecretMap.cpp" />
+    <ClCompile Include="SliceNNArr.cpp" />
     <ClCompile Include="Sort-1.cpp" />
     <ClCompile Include="Sort-2.cpp" />
     <ClCompile Include="Sort-3.cpp" />
