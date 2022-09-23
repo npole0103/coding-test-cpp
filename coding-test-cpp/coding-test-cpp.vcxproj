@@ -165,6 +165,7 @@
     <ClCompile Include="GymSuit.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
+    <ClCompile Include="K-Prime.cpp" />
     <ClCompile Include="KeyPad.cpp" />
     <ClCompile Include="Kruskal.cpp" />
     <ClCompile Include="Lotto.cpp" />
