@@ -28,6 +28,12 @@
     <Filter Include="소스 파일\LEVLE_2">
       <UniqueIdentifier>{a97f1037-ecd3-4ec5-8381-e857444364ad}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2022_LINE">
+      <UniqueIdentifier>{527c2b25-33f0-452a-823b-b6da4c48caf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2022_KAKAO">
+      <UniqueIdentifier>{870bd450-324e-4f70-8daa-e2bf08172492}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Template.cpp">
@@ -182,6 +188,30 @@
     </ClCompile>
     <ClCompile Include="SliceNNArr.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>소스 파일\2022_LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>소스 파일\2022_LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>소스 파일\2022_LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="KAKAO_1.cpp">
+      <Filter>소스 파일\2022_KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="KAKAO_3.cpp">
+      <Filter>소스 파일\2022_KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="KAKO_2.cpp">
+      <Filter>소스 파일\2022_KAKAO</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateMatrix.cpp">
+      <Filter>소스 파일\DEV_MATCHING</Filter>
+    </ClCompile>
+    <ClCompile Include="ToothBrush.cpp">
+      <Filter>소스 파일\DEV_MATCHING</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
