@@ -149,6 +149,8 @@
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="ClawCrane.cpp" />
     <ClCompile Include="CountingSort.cpp" />
+    <ClCompile Include="DividePowerGrid-DFS.cpp" />
+    <ClCompile Include="DividePowerGrid-UnionFind.cpp" />
     <ClCompile Include="FailureRate.cpp" />
     <ClCompile Include="DFS.cpp" />
     <ClCompile Include="Dijkstra.cpp" />

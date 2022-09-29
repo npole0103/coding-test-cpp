@@ -213,5 +213,11 @@
     <ClCompile Include="ToothBrush.cpp">
       <Filter>소스 파일\DEV_MATCHING</Filter>
     </ClCompile>
+    <ClCompile Include="DividePowerGrid-DFS.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="DividePowerGrid-UnionFind.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
