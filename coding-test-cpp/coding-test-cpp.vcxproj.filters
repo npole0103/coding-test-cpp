@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\2022_KAKAO">
       <UniqueIdentifier>{870bd450-324e-4f70-8daa-e2bf08172492}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\HighScoreKit">
+      <UniqueIdentifier>{22d14a88-0d2e-4f5e-a4f8-c0f3593b2bae}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Template.cpp">
@@ -218,6 +221,12 @@
     </ClCompile>
     <ClCompile Include="DividePowerGrid-UnionFind.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash-PhoncketMon.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash-PhoneList.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

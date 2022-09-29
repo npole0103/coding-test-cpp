@@ -169,6 +169,8 @@
     <ClCompile Include="Greedy-Rope.cpp" />
     <ClCompile Include="Greedy-Scale.cpp" />
     <ClCompile Include="GymSuit.cpp" />
+    <ClCompile Include="Hash-PhoncketMon.cpp" />
+    <ClCompile Include="Hash-PhoneList.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
     <ClCompile Include="K-Prime.cpp" />
