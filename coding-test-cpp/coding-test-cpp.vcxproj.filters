@@ -243,5 +243,14 @@
     <ClCompile Include="Greedy-JoyStick.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
+    <ClCompile Include="Greedy-MakeLargestNum.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="DfsBfs-Network.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="UnionFind-Network.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

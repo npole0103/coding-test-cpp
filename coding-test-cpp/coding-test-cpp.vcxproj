@@ -150,6 +150,7 @@
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="ClawCrane.cpp" />
     <ClCompile Include="CountingSort.cpp" />
+    <ClCompile Include="DfsBfs-Network.cpp" />
     <ClCompile Include="DividePowerGrid-DFS.cpp" />
     <ClCompile Include="DividePowerGrid-UnionFind.cpp" />
     <ClCompile Include="FailureRate.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="Greedy-Knight.cpp" />
     <ClCompile Include="Greedy-LostParenthesis.cpp" />
     <ClCompile Include="Greedy-MakeItBig.cpp" />
+    <ClCompile Include="Greedy-MakeLargestNum.cpp" />
     <ClCompile Include="Greedy-Newcomer.cpp" />
     <ClCompile Include="Greedy-OneLine.cpp" />
     <ClCompile Include="Greedy-Rope.cpp" />
@@ -211,6 +213,7 @@
     <ClCompile Include="Level-Test-1.cpp" />
     <ClCompile Include="ToothBrush.cpp" />
     <ClCompile Include="Traversal.cpp" />
+    <ClCompile Include="UnionFind-Network.cpp" />
     <ClCompile Include="UnionFind.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
