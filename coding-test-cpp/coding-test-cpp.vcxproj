@@ -171,6 +171,7 @@
     <ClCompile Include="GymSuit.cpp" />
     <ClCompile Include="Hash-PhoncketMon.cpp" />
     <ClCompile Include="Hash-PhoneList.cpp" />
+    <ClCompile Include="Heap-Spicy.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
     <ClCompile Include="K-Prime.cpp" />
@@ -196,6 +197,8 @@
     <ClCompile Include="Sort-2.cpp" />
     <ClCompile Include="Sort-3.cpp" />
     <ClCompile Include="Sort-4.cpp" />
+    <ClCompile Include="Sort-H-Index.cpp" />
+    <ClCompile Include="Sort-LargestNumber.cpp" />
     <ClCompile Include="Template.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
