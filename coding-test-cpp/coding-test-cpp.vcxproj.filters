@@ -237,5 +237,11 @@
     <ClCompile Include="Sort-H-Index.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
+    <ClCompile Include="BF-FindPrime.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy-JoyStick.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

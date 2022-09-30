@@ -145,6 +145,7 @@
     <ClCompile Include="Archery.cpp" />
     <ClCompile Include="BackTracking-NAndM.cpp" />
     <ClCompile Include="BackTracking-NQueen.cpp" />
+    <ClCompile Include="BF-FindPrime.cpp" />
     <ClCompile Include="BFS.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="ClawCrane.cpp" />
@@ -161,6 +162,7 @@
     <ClCompile Include="Fatigue.cpp" />
     <ClCompile Include="Greedy-30.cpp" />
     <ClCompile Include="Greedy-DNA.cpp" />
+    <ClCompile Include="Greedy-JoyStick.cpp" />
     <ClCompile Include="Greedy-Knight.cpp" />
     <ClCompile Include="Greedy-LostParenthesis.cpp" />
     <ClCompile Include="Greedy-MakeItBig.cpp" />
