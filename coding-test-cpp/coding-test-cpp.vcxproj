@@ -139,9 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.cpp" />
-    <ClCompile Include="2.cpp" />
-    <ClCompile Include="3.cpp" />
+    <ClCompile Include="LINE_1.cpp" />
+    <ClCompile Include="LINE_2.cpp" />
+    <ClCompile Include="LINE_3.cpp" />
     <ClCompile Include="Archery.cpp" />
     <ClCompile Include="BackTracking-NAndM.cpp" />
     <ClCompile Include="BackTracking-NQueen.cpp" />
@@ -150,6 +150,9 @@
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="ClawCrane.cpp" />
     <ClCompile Include="CountingSort.cpp" />
+    <ClCompile Include="DEV_1.cpp" />
+    <ClCompile Include="DEV_2.cpp" />
+    <ClCompile Include="DEV_3.cpp" />
     <ClCompile Include="DfsBfs-Network.cpp" />
     <ClCompile Include="DividePowerGrid-DFS.cpp" />
     <ClCompile Include="DividePowerGrid-UnionFind.cpp" />
