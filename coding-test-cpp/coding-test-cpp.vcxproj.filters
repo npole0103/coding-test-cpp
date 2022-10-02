@@ -261,5 +261,11 @@
     <ClCompile Include="DEV_3.cpp">
       <Filter>소스 파일\DEV_MATCHING</Filter>
     </ClCompile>
+    <ClCompile Include="AEIOU.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="SocialDistancing.cpp">
+      <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

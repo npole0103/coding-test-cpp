@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="LINE_1.cpp" />
     <ClCompile Include="LINE_2.cpp" />
     <ClCompile Include="LINE_3.cpp" />
@@ -200,6 +201,7 @@
     <ClCompile Include="RotateMatrix.cpp" />
     <ClCompile Include="SecretMap.cpp" />
     <ClCompile Include="SliceNNArr.cpp" />
+    <ClCompile Include="SocialDistancing.cpp" />
     <ClCompile Include="Sort-1.cpp" />
     <ClCompile Include="Sort-2.cpp" />
     <ClCompile Include="Sort-3.cpp" />
