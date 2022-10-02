@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AEIOU.cpp" />
+    <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="LINE_1.cpp" />
     <ClCompile Include="LINE_2.cpp" />
     <ClCompile Include="LINE_3.cpp" />
