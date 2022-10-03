@@ -199,6 +199,7 @@
     <ClCompile Include="QueueSum.cpp" />
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="ReportResult.cpp" />
+    <ClCompile Include="RotateBracket.cpp" />
     <ClCompile Include="RotateMatrix.cpp" />
     <ClCompile Include="SecretMap.cpp" />
     <ClCompile Include="SliceNNArr.cpp" />
