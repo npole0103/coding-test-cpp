@@ -198,6 +198,8 @@
     <ClCompile Include="PrimeNumber.cpp" />
     <ClCompile Include="QueueSum.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="RankSearch-SUCCESS.cpp" />
+    <ClCompile Include="RankSearch-FAIL.cpp" />
     <ClCompile Include="ReportResult.cpp" />
     <ClCompile Include="RotateBracket.cpp" />
     <ClCompile Include="RotateMatrix.cpp" />
