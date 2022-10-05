@@ -192,6 +192,8 @@
     <ClCompile Include="Lotto.cpp" />
     <ClCompile Include="Marathon.cpp" />
     <ClCompile Include="MBTI.cpp" />
+    <ClCompile Include="MenuRenewal-FAIL.cpp" />
+    <ClCompile Include="MenuRenewal-SUCCESS.cpp" />
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="NewId.cpp" />
     <ClCompile Include="ParkingFee.cpp" />
