@@ -285,5 +285,11 @@
     <ClCompile Include="MenuRenewal-SUCCESS.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
     </ClCompile>
+    <ClCompile Include="RepeatBitConverting.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="CompressQuad.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

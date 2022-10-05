@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
+    <ClCompile Include="CompressQuad.cpp" />
     <ClCompile Include="LINE_1.cpp" />
     <ClCompile Include="LINE_2.cpp" />
     <ClCompile Include="LINE_3.cpp" />
@@ -202,6 +203,7 @@
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="RankSearch-SUCCESS.cpp" />
     <ClCompile Include="RankSearch-FAIL.cpp" />
+    <ClCompile Include="RepeatBitConverting.cpp" />
     <ClCompile Include="ReportResult.cpp" />
     <ClCompile Include="RotateBracket.cpp" />
     <ClCompile Include="RotateMatrix.cpp" />
