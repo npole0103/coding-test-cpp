@@ -226,6 +226,7 @@
     <ClCompile Include="Level-Test-1.cpp" />
     <ClCompile Include="ToothBrush.cpp" />
     <ClCompile Include="Traversal.cpp" />
+    <ClCompile Include="TriangleSnail.cpp" />
     <ClCompile Include="UnionFind-Network.cpp" />
     <ClCompile Include="UnionFind.cpp" />
   </ItemGroup>
