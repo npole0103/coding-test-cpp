@@ -192,6 +192,7 @@
     <ClCompile Include="Kruskal.cpp" />
     <ClCompile Include="Lotto.cpp" />
     <ClCompile Include="Marathon.cpp" />
+    <ClCompile Include="MaximizeFormulas.cpp" />
     <ClCompile Include="MBTI.cpp" />
     <ClCompile Include="MenuRenewal-FAIL.cpp" />
     <ClCompile Include="MenuRenewal-SUCCESS.cpp" />
@@ -227,6 +228,7 @@
     <ClCompile Include="ToothBrush.cpp" />
     <ClCompile Include="Traversal.cpp" />
     <ClCompile Include="TriangleSnail.cpp" />
+    <ClCompile Include="Tuple.cpp" />
     <ClCompile Include="UnionFind-Network.cpp" />
     <ClCompile Include="UnionFind.cpp" />
   </ItemGroup>
