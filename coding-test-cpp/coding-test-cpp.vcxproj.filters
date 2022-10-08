@@ -300,5 +300,8 @@
     <ClCompile Include="Tuple.cpp">
       <Filter>소스 파일\KAKAO_INTERN</Filter>
     </ClCompile>
+    <ClCompile Include="PlainSquare.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

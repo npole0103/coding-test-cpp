@@ -199,6 +199,7 @@
     <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="NewId.cpp" />
     <ClCompile Include="ParkingFee.cpp" />
+    <ClCompile Include="PlainSquare.cpp" />
     <ClCompile Include="PrimeNumber.cpp" />
     <ClCompile Include="QueueSum.cpp" />
     <ClCompile Include="QuickSort.cpp" />
