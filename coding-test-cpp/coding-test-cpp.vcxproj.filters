@@ -309,22 +309,25 @@
     <ClCompile Include="1026-Greedy.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="Kth-Number.cpp">
-      <Filter>소스 파일\LEVEL_1</Filter>
-    </ClCompile>
-    <ClCompile Include="MinimumRectangle.cpp">
+    <ClCompile Include="BF-Carpet.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
-    <ClCompile Include="MockTest.cpp">
+    <ClCompile Include="Hash-BestAlbumcpp.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
-    <ClCompile Include="Camo.cpp">
+    <ClCompile Include="Hash-Camo.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
-    <ClCompile Include="BestAlbumcpp.cpp">
+    <ClCompile Include="Sort-Kth-Number.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
-    <ClCompile Include="Carpet.cpp">
+    <ClCompile Include="BF-MinimumRectangle.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="BF-MockTest.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy-Lifeboat.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
   </ItemGroup>
