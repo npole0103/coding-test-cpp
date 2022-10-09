@@ -144,6 +144,7 @@
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="BestAlbumcpp.cpp" />
     <ClCompile Include="Camo.cpp" />
+    <ClCompile Include="Carpet.cpp" />
     <ClCompile Include="CompressQuad.cpp" />
     <ClCompile Include="Kth-Number.cpp" />
     <ClCompile Include="LINE_1.cpp" />
@@ -201,6 +202,8 @@
     <ClCompile Include="MenuRenewal-FAIL.cpp" />
     <ClCompile Include="MenuRenewal-SUCCESS.cpp" />
     <ClCompile Include="MergeSort.cpp" />
+    <ClCompile Include="MinimumRectangle.cpp" />
+    <ClCompile Include="MockTest.cpp" />
     <ClCompile Include="NewId.cpp" />
     <ClCompile Include="ParkingFee.cpp" />
     <ClCompile Include="PlainSquare.cpp" />

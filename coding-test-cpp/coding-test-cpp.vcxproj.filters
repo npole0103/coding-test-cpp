@@ -309,14 +309,23 @@
     <ClCompile Include="1026-Greedy.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="Camo.cpp">
-      <Filter>소스 파일\LEVLE_2</Filter>
-    </ClCompile>
-    <ClCompile Include="BestAlbumcpp.cpp">
-      <Filter>소스 파일\LEVLE_2</Filter>
-    </ClCompile>
     <ClCompile Include="Kth-Number.cpp">
       <Filter>소스 파일\LEVEL_1</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumRectangle.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="MockTest.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="Camo.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="BestAlbumcpp.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="Carpet.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
