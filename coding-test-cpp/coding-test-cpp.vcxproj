@@ -139,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1026-Greedy.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
+    <ClCompile Include="BestAlbumcpp.cpp" />
+    <ClCompile Include="Camo.cpp" />
     <ClCompile Include="CompressQuad.cpp" />
     <ClCompile Include="LINE_1.cpp" />
     <ClCompile Include="LINE_2.cpp" />

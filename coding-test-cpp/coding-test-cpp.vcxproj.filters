@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\HighScoreKit">
       <UniqueIdentifier>{22d14a88-0d2e-4f5e-a4f8-c0f3593b2bae}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ">
+      <UniqueIdentifier>{8b2f5134-fa4f-4514-b87f-f99a491e5b03}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Template.cpp">
@@ -301,6 +304,15 @@
       <Filter>소스 파일\KAKAO_INTERN</Filter>
     </ClCompile>
     <ClCompile Include="PlainSquare.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="1026-Greedy.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="Camo.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="BestAlbumcpp.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
   </ItemGroup>
