@@ -145,6 +145,7 @@
     <ClCompile Include="BestAlbumcpp.cpp" />
     <ClCompile Include="Camo.cpp" />
     <ClCompile Include="CompressQuad.cpp" />
+    <ClCompile Include="Kth-Number.cpp" />
     <ClCompile Include="LINE_1.cpp" />
     <ClCompile Include="LINE_2.cpp" />
     <ClCompile Include="LINE_3.cpp" />
