@@ -142,6 +142,7 @@
     <ClCompile Include="1026-Greedy.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
+    <ClCompile Include="Greedy-ConnectingIsland.cpp" />
     <ClCompile Include="Greedy-Lifeboat.cpp" />
     <ClCompile Include="Hash-BestAlbumcpp.cpp" />
     <ClCompile Include="Hash-Camo.cpp" />
@@ -226,6 +227,7 @@
     <ClCompile Include="Sort-4.cpp" />
     <ClCompile Include="Sort-H-Index.cpp" />
     <ClCompile Include="Sort-LargestNumber.cpp" />
+    <ClCompile Include="SpeedCamera.cpp" />
     <ClCompile Include="Template.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>

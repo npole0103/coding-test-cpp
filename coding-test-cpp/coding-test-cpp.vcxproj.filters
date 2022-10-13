@@ -330,5 +330,11 @@
     <ClCompile Include="Greedy-Lifeboat.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
+    <ClCompile Include="Greedy-ConnectingIsland.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="SpeedCamera.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
