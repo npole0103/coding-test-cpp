@@ -339,5 +339,8 @@
     <ClCompile Include="DfsBfs-TargetNumber.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
+    <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
