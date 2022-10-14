@@ -144,6 +144,8 @@
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
+    <ClCompile Include="DfsBfs-TravelRoute.cpp" />
+    <ClCompile Include="DfsBfs-WordConversion.cpp" />
     <ClCompile Include="Greedy-ConnectingIsland.cpp" />
     <ClCompile Include="Greedy-Lifeboat.cpp" />
     <ClCompile Include="Hash-BestAlbumcpp.cpp" />
