@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -142,6 +142,8 @@
     <ClCompile Include="1026-Greedy.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
+    <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
+    <ClCompile Include="DfsBfs-TargetNumber.cpp" />
     <ClCompile Include="Greedy-ConnectingIsland.cpp" />
     <ClCompile Include="Greedy-Lifeboat.cpp" />
     <ClCompile Include="Hash-BestAlbumcpp.cpp" />
