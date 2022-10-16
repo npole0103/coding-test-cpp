@@ -142,6 +142,7 @@
     <ClCompile Include="1026-Greedy.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
+    <ClCompile Include="BracketConversion.cpp" />
     <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
     <ClCompile Include="DfsBfs-TravelRoute.cpp" />
