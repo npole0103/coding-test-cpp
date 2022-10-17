@@ -233,6 +233,8 @@
     <ClCompile Include="Sort-H-Index.cpp" />
     <ClCompile Include="Sort-LargestNumber.cpp" />
     <ClCompile Include="SpeedCamera.cpp" />
+    <ClCompile Include="StringCompression-FAIL.cpp" />
+    <ClCompile Include="StringCompression.cpp" />
     <ClCompile Include="Template.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>

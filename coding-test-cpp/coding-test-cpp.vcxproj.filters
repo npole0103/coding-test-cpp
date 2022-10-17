@@ -351,5 +351,11 @@
     <ClCompile Include="BracketConversion.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
     </ClCompile>
+    <ClCompile Include="StringCompression-FAIL.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
+    <ClCompile Include="StringCompression.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
