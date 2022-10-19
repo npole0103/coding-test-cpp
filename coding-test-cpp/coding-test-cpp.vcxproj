@@ -144,6 +144,7 @@
     <ClCompile Include="2667-DFS.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
+    <ClCompile Include="BracketConversion.cpp" />
     <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
     <ClCompile Include="DfsBfs-TravelRoute.cpp" />
@@ -234,6 +235,8 @@
     <ClCompile Include="Sort-H-Index.cpp" />
     <ClCompile Include="Sort-LargestNumber.cpp" />
     <ClCompile Include="SpeedCamera.cpp" />
+    <ClCompile Include="StringCompression-FAIL.cpp" />
+    <ClCompile Include="StringCompression.cpp" />
     <ClCompile Include="Template.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
