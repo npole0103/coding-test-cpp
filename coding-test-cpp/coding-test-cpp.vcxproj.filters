@@ -348,5 +348,11 @@
     <ClCompile Include="DfsBfs-TravelRoute.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
+    <ClCompile Include="13305-Greedy.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2667-DFS.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

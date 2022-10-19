@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1026-Greedy.cpp" />
+    <ClCompile Include="13305-Greedy.cpp" />
+    <ClCompile Include="2667-DFS.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
