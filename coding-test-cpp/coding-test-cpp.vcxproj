@@ -142,7 +142,11 @@
     <ClCompile Include="1026-Greedy.cpp" />
     <ClCompile Include="13305-Greedy.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
+    <ClCompile Include="2178-BFS.cpp" />
+    <ClCompile Include="2644-BFS.cpp" />
+    <ClCompile Include="2644-DFS.cpp" />
     <ClCompile Include="2667-DFS.cpp" />
+    <ClCompile Include="7569-BFS.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="BracketConversion.cpp" />
