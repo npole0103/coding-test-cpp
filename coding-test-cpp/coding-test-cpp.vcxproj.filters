@@ -393,5 +393,11 @@
     <ClCompile Include="14503-DFS.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
+    <ClCompile Include="1543-Greedy.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1459-Greedy.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

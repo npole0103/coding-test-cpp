@@ -142,6 +142,7 @@
     <ClCompile Include="1026-Greedy.cpp" />
     <ClCompile Include="13305-Greedy.cpp" />
     <ClCompile Include="14503-DFS.cpp" />
+    <ClCompile Include="1459-Greedy.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
     <ClCompile Include="2178-BFS.cpp" />
     <ClCompile Include="2468-BFS.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="5014-BFS.cpp" />
+    <ClCompile Include="1543-Greedy.cpp" />
     <ClCompile Include="BracketConversion.cpp" />
     <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
