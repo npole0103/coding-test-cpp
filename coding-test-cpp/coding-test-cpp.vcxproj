@@ -140,16 +140,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1026-Greedy.cpp" />
+    <ClCompile Include="12018-Greedy.cpp" />
     <ClCompile Include="13305-Greedy.cpp" />
     <ClCompile Include="14503-DFS.cpp" />
     <ClCompile Include="1459-Greedy.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
+    <ClCompile Include="20044-Greedy.cpp" />
+    <ClCompile Include="2012-Greedy.cpp" />
     <ClCompile Include="2178-BFS.cpp" />
     <ClCompile Include="2468-BFS.cpp" />
     <ClCompile Include="2573-BFS.cpp" />
     <ClCompile Include="2644-BFS.cpp" />
     <ClCompile Include="2644-DFS.cpp" />
     <ClCompile Include="2667-DFS.cpp" />
+    <ClCompile Include="2785-Greedy.cpp" />
+    <ClCompile Include="2885-Greedy.cpp" />
+    <ClCompile Include="2891-Greedy.cpp" />
     <ClCompile Include="7569-BFS.cpp" />
     <ClCompile Include="9205-DFS.cpp" />
     <ClCompile Include="AEIOU.cpp" />
