@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1026-Greedy.cpp" />
+    <ClCompile Include="11501-Greedy.cpp" />
     <ClCompile Include="12018-Greedy.cpp" />
     <ClCompile Include="13305-Greedy.cpp" />
     <ClCompile Include="14503-DFS.cpp" />
