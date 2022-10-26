@@ -423,7 +423,7 @@
     <ClCompile Include="1911-Greedy.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="15649-BackTracking.cpp">
+    <ClCompile Include="15649-BackTracking-Perm.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="9663-BackTracking.cpp">
@@ -433,6 +433,30 @@
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="1182-BackTracking-2.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15650-BackTracking-Combi.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15651-BackTracking-PermRepeat.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15652-BackTracking-CombiRepeat.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15654-BackTracking.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15655-BackTracking.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15656-BackTracking.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15657-BackTracking.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15663-BackTracking.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>

@@ -147,7 +147,15 @@
     <ClCompile Include="13305-Greedy.cpp" />
     <ClCompile Include="14503-DFS.cpp" />
     <ClCompile Include="1459-Greedy.cpp" />
-    <ClCompile Include="15649-BackTracking.cpp" />
+    <ClCompile Include="15649-BackTracking-Perm.cpp" />
+    <ClCompile Include="15650-BackTracking-Combi.cpp" />
+    <ClCompile Include="15651-BackTracking-PermRepeat.cpp" />
+    <ClCompile Include="15652-BackTracking-CombiRepeat.cpp" />
+    <ClCompile Include="15654-BackTracking.cpp" />
+    <ClCompile Include="15655-BackTracking.cpp" />
+    <ClCompile Include="15656-BackTracking.cpp" />
+    <ClCompile Include="15657-BackTracking.cpp" />
+    <ClCompile Include="15663-BackTracking.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
     <ClCompile Include="1911-Greedy.cpp" />
     <ClCompile Include="20044-Greedy.cpp" />
