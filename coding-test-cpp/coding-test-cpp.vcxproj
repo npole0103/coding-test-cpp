@@ -141,10 +141,13 @@
   <ItemGroup>
     <ClCompile Include="1026-Greedy.cpp" />
     <ClCompile Include="11501-Greedy.cpp" />
+    <ClCompile Include="1182-BackTracking-2.cpp" />
+    <ClCompile Include="1182-BackTracking.cpp" />
     <ClCompile Include="12018-Greedy.cpp" />
     <ClCompile Include="13305-Greedy.cpp" />
     <ClCompile Include="14503-DFS.cpp" />
     <ClCompile Include="1459-Greedy.cpp" />
+    <ClCompile Include="15649-BackTracking.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
     <ClCompile Include="1911-Greedy.cpp" />
     <ClCompile Include="20044-Greedy.cpp" />
@@ -160,6 +163,7 @@
     <ClCompile Include="2891-Greedy.cpp" />
     <ClCompile Include="7569-BFS.cpp" />
     <ClCompile Include="9205-DFS.cpp" />
+    <ClCompile Include="9663-BackTracking.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="5014-BFS.cpp" />
