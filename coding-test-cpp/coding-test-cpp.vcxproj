@@ -146,6 +146,7 @@
     <ClCompile Include="14503-DFS.cpp" />
     <ClCompile Include="1459-Greedy.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
+    <ClCompile Include="1911-Greedy.cpp" />
     <ClCompile Include="20044-Greedy.cpp" />
     <ClCompile Include="2012-Greedy.cpp" />
     <ClCompile Include="2178-BFS.cpp" />
