@@ -158,6 +158,7 @@
     <ClCompile Include="15657-BackTracking.cpp" />
     <ClCompile Include="15663-BackTracking.cpp" />
     <ClCompile Include="15683-Simulation.cpp" />
+    <ClCompile Include="15686-Simulation.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
     <ClCompile Include="18808-Simulation.cpp" />
     <ClCompile Include="1911-Greedy.cpp" />
