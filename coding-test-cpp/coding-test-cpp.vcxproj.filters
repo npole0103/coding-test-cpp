@@ -483,5 +483,8 @@
     <ClCompile Include="LV2-2.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
+    <ClCompile Include="VisitLength.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -291,6 +291,7 @@
     <ClCompile Include="Tuple.cpp" />
     <ClCompile Include="UnionFind-Network.cpp" />
     <ClCompile Include="UnionFind.cpp" />
+    <ClCompile Include="VisitLength.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
