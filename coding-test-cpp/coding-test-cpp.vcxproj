@@ -276,6 +276,10 @@
     <ClCompile Include="Sort-H-Index.cpp" />
     <ClCompile Include="Sort-LargestNumber.cpp" />
     <ClCompile Include="SpeedCamera.cpp" />
+    <ClCompile Include="StackQueue-FunctionDevelopment-Stack.cpp" />
+    <ClCompile Include="StackQueue-FunctionDevelopment.cpp" />
+    <ClCompile Include="StackQueue-Printer-2.cpp" />
+    <ClCompile Include="StackQueue-Printer.cpp" />
     <ClCompile Include="StringCompression-FAIL.cpp" />
     <ClCompile Include="StringCompression.cpp" />
     <ClCompile Include="Template.cpp">

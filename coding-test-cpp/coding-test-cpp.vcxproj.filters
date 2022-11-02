@@ -489,5 +489,17 @@
     <ClCompile Include="SkillTree.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
+    <ClCompile Include="StackQueue-Printer.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="StackQueue-Printer-2.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="StackQueue-FunctionDevelopment.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
+    <ClCompile Include="StackQueue-FunctionDevelopment-Stack.cpp">
+      <Filter>소스 파일\HighScoreKit</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
