@@ -501,5 +501,14 @@
     <ClCompile Include="StackQueue-FunctionDevelopment-Stack.cpp">
       <Filter>소스 파일\HighScoreKit</Filter>
     </ClCompile>
+    <ClCompile Include="StackQueue-BridgeTruck.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StackQueue-StockPrice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NBinaryGame.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
