@@ -187,6 +187,8 @@
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
     <ClCompile Include="DfsBfs-TravelRoute.cpp" />
     <ClCompile Include="DfsBfs-WordConversion.cpp" />
+    <ClCompile Include="FileNameSorting.cpp" />
+    <ClCompile Include="FileNameSotring-2.cpp" />
     <ClCompile Include="Greedy-ConnectingIsland.cpp" />
     <ClCompile Include="Greedy-Lifeboat.cpp" />
     <ClCompile Include="Hash-BestAlbumcpp.cpp" />
