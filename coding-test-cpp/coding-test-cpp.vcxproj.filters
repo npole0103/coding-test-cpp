@@ -540,5 +540,8 @@
     <ClCompile Include="LG_4.cpp">
       <Filter>소스 파일\LG_CNS</Filter>
     </ClCompile>
+    <ClCompile Include="CandidateKey.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

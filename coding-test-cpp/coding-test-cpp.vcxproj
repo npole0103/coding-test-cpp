@@ -184,6 +184,7 @@
     <ClCompile Include="1543-Greedy.cpp" />
     <ClCompile Include="BracketConversion.cpp" />
     <ClCompile Include="Cache.cpp" />
+    <ClCompile Include="CandidateKey.cpp" />
     <ClCompile Include="Compression.cpp" />
     <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
