@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\BOJ">
       <UniqueIdentifier>{8b2f5134-fa4f-4514-b87f-f99a491e5b03}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LG_CNS">
+      <UniqueIdentifier>{a99e5749-d9e6-4713-9be8-d51f2b1b2624}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Template.cpp">
@@ -524,6 +527,18 @@
     </ClCompile>
     <ClCompile Include="Cache.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
+    <ClCompile Include="LG_1.cpp">
+      <Filter>소스 파일\LG_CNS</Filter>
+    </ClCompile>
+    <ClCompile Include="LG_2.cpp">
+      <Filter>소스 파일\LG_CNS</Filter>
+    </ClCompile>
+    <ClCompile Include="LG_3.cpp">
+      <Filter>소스 파일\LG_CNS</Filter>
+    </ClCompile>
+    <ClCompile Include="LG_4.cpp">
+      <Filter>소스 파일\LG_CNS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
