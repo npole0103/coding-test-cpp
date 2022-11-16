@@ -190,6 +190,7 @@
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
     <ClCompile Include="DfsBfs-TravelRoute.cpp" />
     <ClCompile Include="DfsBfs-WordConversion.cpp" />
+    <ClCompile Include="EnglishShiritori.cpp" />
     <ClCompile Include="ExpectedMatchList.cpp" />
     <ClCompile Include="FileNameSorting.cpp" />
     <ClCompile Include="FileNameSotring-2.cpp" />
