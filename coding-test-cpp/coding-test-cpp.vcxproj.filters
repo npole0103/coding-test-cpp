@@ -549,5 +549,8 @@
     <ClCompile Include="Friends4Blocks.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
     </ClCompile>
+    <ClCompile Include="NewsClustering.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
