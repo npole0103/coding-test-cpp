@@ -161,8 +161,10 @@
     <ClCompile Include="15686-Simulation.cpp" />
     <ClCompile Include="1654-BS.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
+    <ClCompile Include="1806-TwoPointer.cpp" />
     <ClCompile Include="18808-Simulation.cpp" />
     <ClCompile Include="1911-Greedy.cpp" />
+    <ClCompile Include="2230-TwoPointer.cpp" />
     <ClCompile Include="2295-BS.cpp" />
     <ClCompile Include="1931-Greedy.cpp" />
     <ClCompile Include="20044-Greedy.cpp" />
