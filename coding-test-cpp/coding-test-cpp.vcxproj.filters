@@ -558,5 +558,11 @@
     <ClCompile Include="EnglishShiritori.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
+    <ClCompile Include="JumpAndTeleport.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Delivery.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

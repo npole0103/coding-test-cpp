@@ -186,6 +186,7 @@
     <ClCompile Include="Cache.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
     <ClCompile Include="Compression.cpp" />
+    <ClCompile Include="Delivery.cpp" />
     <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
     <ClCompile Include="DfsBfs-TravelRoute.cpp" />
@@ -201,6 +202,7 @@
     <ClCompile Include="Hash-Camo.cpp" />
     <ClCompile Include="BF-Carpet.cpp" />
     <ClCompile Include="CompressQuad.cpp" />
+    <ClCompile Include="JumpAndTeleport.cpp" />
     <ClCompile Include="JustNowSong.cpp" />
     <ClCompile Include="LG_1.cpp" />
     <ClCompile Include="LG_2.cpp" />
