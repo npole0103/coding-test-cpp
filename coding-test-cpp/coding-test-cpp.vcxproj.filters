@@ -576,5 +576,8 @@
     <ClCompile Include="1806-TwoPointer.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
+    <ClCompile Include="KakaoFriendsColoringBook.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

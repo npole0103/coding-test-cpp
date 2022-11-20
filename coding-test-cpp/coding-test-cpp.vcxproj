@@ -208,6 +208,7 @@
     <ClCompile Include="CompressQuad.cpp" />
     <ClCompile Include="JumpAndTeleport.cpp" />
     <ClCompile Include="JustNowSong.cpp" />
+    <ClCompile Include="KakaoFriendsColoringBook.cpp" />
     <ClCompile Include="LG_1.cpp" />
     <ClCompile Include="LG_2.cpp" />
     <ClCompile Include="LG_3.cpp" />
