@@ -363,7 +363,7 @@
     <ClCompile Include="13305-Greedy.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="2667-DFS.cpp">
+    <ClCompile Include="2667-BFS.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="1753-Graph.cpp">
@@ -577,6 +577,9 @@
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="KakaoFriendsColoringBook.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupPhoto.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
     </ClCompile>
   </ItemGroup>

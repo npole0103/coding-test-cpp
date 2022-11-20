@@ -175,7 +175,7 @@
     <ClCompile Include="2573-BFS.cpp" />
     <ClCompile Include="2644-BFS.cpp" />
     <ClCompile Include="2644-DFS.cpp" />
-    <ClCompile Include="2667-DFS.cpp" />
+    <ClCompile Include="2667-BFS.cpp" />
     <ClCompile Include="2785-Greedy.cpp" />
     <ClCompile Include="2885-Greedy.cpp" />
     <ClCompile Include="2891-Greedy.cpp" />
@@ -202,6 +202,7 @@
     <ClCompile Include="Friends4Blocks.cpp" />
     <ClCompile Include="Greedy-ConnectingIsland.cpp" />
     <ClCompile Include="Greedy-Lifeboat.cpp" />
+    <ClCompile Include="GroupPhoto.cpp" />
     <ClCompile Include="Hash-BestAlbumcpp.cpp" />
     <ClCompile Include="Hash-Camo.cpp" />
     <ClCompile Include="BF-Carpet.cpp" />
