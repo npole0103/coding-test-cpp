@@ -320,6 +320,7 @@
     <ClCompile Include="Traversal.cpp" />
     <ClCompile Include="TriangleSnail.cpp" />
     <ClCompile Include="Tuple.cpp" />
+    <ClCompile Include="UndestroyedBuilding.cpp" />
     <ClCompile Include="UnionFind-Network.cpp" />
     <ClCompile Include="UnionFind.cpp" />
     <ClCompile Include="VisitLength.cpp" />
