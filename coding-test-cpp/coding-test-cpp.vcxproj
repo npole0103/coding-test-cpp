@@ -219,6 +219,7 @@
     <ClCompile Include="NBinaryGame.cpp" />
     <ClCompile Include="NewsClustering.cpp" />
     <ClCompile Include="OpenChattingRoom.cpp" />
+    <ClCompile Include="SheepAndWolf.cpp" />
     <ClCompile Include="SkillTree.cpp" />
     <ClCompile Include="Sort-Kth-Number.cpp" />
     <ClCompile Include="LINE_1.cpp" />
