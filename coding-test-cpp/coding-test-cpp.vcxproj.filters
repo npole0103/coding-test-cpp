@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\LG_CNS">
       <UniqueIdentifier>{a99e5749-d9e6-4713-9be8-d51f2b1b2624}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LEVEL_3">
+      <UniqueIdentifier>{281e34b9-7d42-4bf7-9db3-20a7c87aebfd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Template.cpp">
@@ -587,6 +590,12 @@
     </ClCompile>
     <ClCompile Include="SheepAndWolf.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
+    <ClCompile Include="PriorityQueue.cpp">
+      <Filter>소스 파일\LEVEL_3</Filter>
+    </ClCompile>
+    <ClCompile Include="BestSet.cpp">
+      <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
