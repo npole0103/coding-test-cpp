@@ -219,6 +219,7 @@
     <ClCompile Include="LV2-2.cpp" />
     <ClCompile Include="NBinaryGame.cpp" />
     <ClCompile Include="NewsClustering.cpp" />
+    <ClCompile Include="NumberGame.cpp" />
     <ClCompile Include="OpenChattingRoom.cpp" />
     <ClCompile Include="PriorityQueue.cpp" />
     <ClCompile Include="SheepAndWolf.cpp" />
