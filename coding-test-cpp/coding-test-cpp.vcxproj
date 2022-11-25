@@ -327,6 +327,7 @@
     <ClCompile Include="UnionFind-Network.cpp" />
     <ClCompile Include="UnionFind.cpp" />
     <ClCompile Include="VisitLength.cpp" />
+    <ClCompile Include="WorkOvertimeFactor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
