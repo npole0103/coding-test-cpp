@@ -186,12 +186,16 @@
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="5014-BFS.cpp" />
     <ClCompile Include="1543-Greedy.cpp" />
+    <ClCompile Include="BaseSation.cpp" />
+    <ClCompile Include="BaseStation-Fail.cpp" />
     <ClCompile Include="BestSet.cpp" />
     <ClCompile Include="BracketConversion.cpp" />
     <ClCompile Include="Cache.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
     <ClCompile Include="Compression.cpp" />
     <ClCompile Include="Delivery.cpp" />
+    <ClCompile Include="DEV_LAST_1.cpp" />
+    <ClCompile Include="DEV_LAST_2.cpp" />
     <ClCompile Include="DfsBfs-GameMapShortestDistance.cpp" />
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
     <ClCompile Include="DfsBfs-TravelRoute.cpp" />
@@ -211,6 +215,9 @@
     <ClCompile Include="JumpAndTeleport.cpp" />
     <ClCompile Include="JustNowSong.cpp" />
     <ClCompile Include="KakaoFriendsColoringBook.cpp" />
+    <ClCompile Include="KM_1.cpp" />
+    <ClCompile Include="KM_2.cpp" />
+    <ClCompile Include="KM_3.cpp" />
     <ClCompile Include="LG_1.cpp" />
     <ClCompile Include="LG_2.cpp" />
     <ClCompile Include="LG_3.cpp" />
