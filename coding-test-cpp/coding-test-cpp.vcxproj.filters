@@ -627,5 +627,8 @@
     <ClCompile Include="BaseSation.cpp">
       <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
+    <ClCompile Include="BadUser.cpp">
+      <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

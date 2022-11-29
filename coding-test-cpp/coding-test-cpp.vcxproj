@@ -186,6 +186,7 @@
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="5014-BFS.cpp" />
     <ClCompile Include="1543-Greedy.cpp" />
+    <ClCompile Include="BadUser.cpp" />
     <ClCompile Include="BaseSation.cpp" />
     <ClCompile Include="BaseStation-Fail.cpp" />
     <ClCompile Include="BestSet.cpp" />
