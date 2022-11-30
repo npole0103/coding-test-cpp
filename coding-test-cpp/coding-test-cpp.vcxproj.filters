@@ -630,5 +630,11 @@
     <ClCompile Include="BadUser.cpp">
       <Filter>소스 파일\KAKAO_INTERN</Filter>
     </ClCompile>
+    <ClCompile Include="JewelryShopping-FAIL.cpp">
+      <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
+    <ClCompile Include="JewelryShopping-TwoPointer.cpp">
+      <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
