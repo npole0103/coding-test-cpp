@@ -320,6 +320,11 @@
     <ClCompile Include="StackQueue-Printer-2.cpp" />
     <ClCompile Include="StackQueue-Printer.cpp" />
     <ClCompile Include="StackQueue-StockPrice.cpp" />
+    <ClCompile Include="SteppingStone-FAIL-1.cpp" />
+    <ClCompile Include="SteppingStone-FAIL-2.cpp" />
+    <ClCompile Include="SteppingStone-FAIL-3.cpp" />
+    <ClCompile Include="SteppingStone-Set.cpp" />
+    <ClCompile Include="SteppingStone.cpp" />
     <ClCompile Include="StringCompression-FAIL.cpp" />
     <ClCompile Include="StringCompression.cpp" />
     <ClCompile Include="Template.cpp">
