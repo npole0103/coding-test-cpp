@@ -193,6 +193,7 @@
     <ClCompile Include="BracketConversion.cpp" />
     <ClCompile Include="Cache.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
+    <ClCompile Include="CollectSticker.cpp" />
     <ClCompile Include="Compression.cpp" />
     <ClCompile Include="Delivery.cpp" />
     <ClCompile Include="DEV_LAST_1.cpp" />
@@ -327,7 +328,7 @@
     <ClCompile Include="SteppingStone.cpp" />
     <ClCompile Include="StringCompression-FAIL.cpp" />
     <ClCompile Include="StringCompression.cpp" />
-    <ClCompile Include="Template.cpp">
+    <ClCompile Include="A_Template.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

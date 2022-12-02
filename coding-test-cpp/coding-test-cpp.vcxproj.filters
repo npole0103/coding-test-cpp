@@ -51,7 +51,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Template.cpp">
+    <ClCompile Include="A_Template.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="SelectionSort.cpp">
@@ -650,6 +650,9 @@
     </ClCompile>
     <ClCompile Include="SteppingStone-Set.cpp">
       <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
+    <ClCompile Include="CollectSticker.cpp">
+      <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

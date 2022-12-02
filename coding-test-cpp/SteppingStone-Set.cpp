@@ -14,6 +14,7 @@
 //    int answer = 1e9;
 //    multiset<int> s;
 //
+//    //n개를 순회하면서 K개씩 집합으로 묶고, 해당 집합에서의 최댓값과 answer 중 작은 값 저장
 //    for (int i = 0; i <= stones.size(); i++) {
 //        if (s.size() == k) {
 //            auto it = prev(s.end());
