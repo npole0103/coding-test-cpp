@@ -336,6 +336,7 @@
     </ClCompile>
     <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="Level-Test-1.cpp" />
+    <ClCompile Include="TheFarthestNode.cpp" />
     <ClCompile Include="ToothBrush.cpp" />
     <ClCompile Include="Traversal.cpp" />
     <ClCompile Include="TriangleSnail.cpp" />

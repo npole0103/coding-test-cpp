@@ -654,5 +654,8 @@
     <ClCompile Include="CollectSticker.cpp">
       <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
+    <ClCompile Include="TheFarthestNode.cpp">
+      <Filter>소스 파일\LEVEL_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
