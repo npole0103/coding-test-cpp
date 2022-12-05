@@ -657,5 +657,11 @@
     <ClCompile Include="TheFarthestNode.cpp">
       <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
+    <ClCompile Include="DiskController-FAIL.cpp">
+      <Filter>소스 파일\LEVEL_3</Filter>
+    </ClCompile>
+    <ClCompile Include="DiskController.cpp">
+      <Filter>소스 파일\LEVEL_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
