@@ -202,6 +202,7 @@
     <ClCompile Include="DfsBfs-TargetNumber.cpp" />
     <ClCompile Include="DfsBfs-TravelRoute.cpp" />
     <ClCompile Include="DfsBfs-WordConversion.cpp" />
+    <ClCompile Include="DiscountEvent.cpp" />
     <ClCompile Include="DiskController-FAIL.cpp" />
     <ClCompile Include="DiskController.cpp" />
     <ClCompile Include="EnglishShiritori.cpp" />
