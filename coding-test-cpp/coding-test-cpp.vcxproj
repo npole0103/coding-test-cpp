@@ -209,6 +209,7 @@
     <ClCompile Include="ExpectedMatchList.cpp" />
     <ClCompile Include="FileNameSorting.cpp" />
     <ClCompile Include="FileNameSotring-2.cpp" />
+    <ClCompile Include="FloydWarshall.cpp" />
     <ClCompile Include="Friends4Blocks.cpp" />
     <ClCompile Include="Greedy-ConnectingIsland.cpp" />
     <ClCompile Include="Greedy-Lifeboat.cpp" />
@@ -236,6 +237,7 @@
     <ClCompile Include="NumberGame.cpp" />
     <ClCompile Include="OpenChattingRoom.cpp" />
     <ClCompile Include="PriorityQueue.cpp" />
+    <ClCompile Include="SharedTaxiFare-Floyd.cpp" />
     <ClCompile Include="SheepAndWolf.cpp" />
     <ClCompile Include="SkillTree.cpp" />
     <ClCompile Include="Sort-Kth-Number.cpp" />
