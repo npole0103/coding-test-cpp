@@ -195,6 +195,7 @@
     <ClCompile Include="CandidateKey.cpp" />
     <ClCompile Include="CollectSticker.cpp" />
     <ClCompile Include="Compression.cpp" />
+    <ClCompile Include="CreateRacecourse.cpp" />
     <ClCompile Include="Delivery.cpp" />
     <ClCompile Include="DEV_LAST_1.cpp" />
     <ClCompile Include="DEV_LAST_2.cpp" />
