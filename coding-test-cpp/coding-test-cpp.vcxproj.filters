@@ -690,5 +690,8 @@
     <ClCompile Include="Immigration.cpp">
       <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
+    <ClCompile Include="TheLongestPalindrome.cpp">
+      <Filter>소스 파일\LEVEL_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
