@@ -241,6 +241,7 @@
     <ClCompile Include="PriorityQueue.cpp" />
     <ClCompile Include="SharedTaxiFare-Floyd.cpp" />
     <ClCompile Include="SheepAndWolf.cpp" />
+    <ClCompile Include="ShuttleBus.cpp" />
     <ClCompile Include="SkillTree.cpp" />
     <ClCompile Include="Sort-Kth-Number.cpp" />
     <ClCompile Include="LINE_1.cpp" />
