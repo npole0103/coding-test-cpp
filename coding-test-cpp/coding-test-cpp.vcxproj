@@ -232,6 +232,7 @@
     <ClCompile Include="LG_2.cpp" />
     <ClCompile Include="LG_3.cpp" />
     <ClCompile Include="LG_4.cpp" />
+    <ClCompile Include="LockAndKey.cpp" />
     <ClCompile Include="LV2-1.cpp" />
     <ClCompile Include="LV2-2.cpp" />
     <ClCompile Include="NBinaryGame.cpp" />
