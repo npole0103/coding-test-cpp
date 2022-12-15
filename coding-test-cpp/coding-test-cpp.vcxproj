@@ -191,6 +191,7 @@
     <ClCompile Include="BaseStation-Fail.cpp" />
     <ClCompile Include="BestSet.cpp" />
     <ClCompile Include="BracketConversion.cpp" />
+    <ClCompile Include="BurstingBalloon.cpp" />
     <ClCompile Include="Cache.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
     <ClCompile Include="CollectSticker.cpp" />

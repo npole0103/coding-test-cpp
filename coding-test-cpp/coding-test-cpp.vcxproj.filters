@@ -702,5 +702,8 @@
     <ClCompile Include="Rank.cpp">
       <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
+    <ClCompile Include="BurstingBalloon.cpp">
+      <Filter>소스 파일\LEVEL_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
