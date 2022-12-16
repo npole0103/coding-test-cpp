@@ -705,5 +705,8 @@
     <ClCompile Include="BurstingBalloon.cpp">
       <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
+    <ClCompile Include="PairOffRemove.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
