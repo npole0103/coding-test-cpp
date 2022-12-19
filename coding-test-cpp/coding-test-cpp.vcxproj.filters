@@ -717,5 +717,14 @@
     <ClCompile Include="LV3_2.cpp">
       <Filter>소스 파일\LEVEL_3</Filter>
     </ClCompile>
+    <ClCompile Include="EditingTable-VECTOR-TIMEOUT.cpp">
+      <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
+    <ClCompile Include="EditingTable-SET-TIMEOUT.cpp">
+      <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
+    <ClCompile Include="EditingTable.cpp">
+      <Filter>소스 파일\KAKAO_INTERN</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
