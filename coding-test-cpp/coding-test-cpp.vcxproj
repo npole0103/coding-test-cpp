@@ -225,6 +225,7 @@
     <ClCompile Include="BF-Carpet.cpp" />
     <ClCompile Include="CompressQuad.cpp" />
     <ClCompile Include="Immigration.cpp" />
+    <ClCompile Include="InstallColumnAndDam.cpp" />
     <ClCompile Include="JewelryShopping-FAIL.cpp" />
     <ClCompile Include="JewelryShopping-TwoPointer.cpp" />
     <ClCompile Include="JumpAndTeleport.cpp" />
