@@ -729,5 +729,8 @@
     <ClCompile Include="InstallColumnAndDam.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
     </ClCompile>
+    <ClCompile Include="InsertAdvertisement.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
