@@ -194,6 +194,7 @@
     <ClCompile Include="BurstingBalloon.cpp" />
     <ClCompile Include="Cache.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
+    <ClCompile Include="CheckOuterWall.cpp" />
     <ClCompile Include="EditingTable-VECTOR-TIMEOUT.cpp" />
     <ClCompile Include="EditingTable-SET-TIMEOUT.cpp" />
     <ClCompile Include="EditingTable.cpp" />
