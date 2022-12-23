@@ -251,6 +251,7 @@
     <ClCompile Include="NumberGame.cpp" />
     <ClCompile Include="OpenChattingRoom.cpp" />
     <ClCompile Include="PairOffRemove.cpp" />
+    <ClCompile Include="PlayingAloneMaster.cpp" />
     <ClCompile Include="PriorityQueue.cpp" />
     <ClCompile Include="Rank.cpp" />
     <ClCompile Include="SharedTaxiFare-Floyd.cpp" />
