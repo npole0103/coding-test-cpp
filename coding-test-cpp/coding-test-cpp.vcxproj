@@ -249,6 +249,7 @@
     <ClCompile Include="NBinaryGame.cpp" />
     <ClCompile Include="NewsClustering.cpp" />
     <ClCompile Include="NumberGame.cpp" />
+    <ClCompile Include="NumberOfPartialSequenceSum.cpp" />
     <ClCompile Include="OpenChattingRoom.cpp" />
     <ClCompile Include="PairOffRemove.cpp" />
     <ClCompile Include="PlayingAloneMaster.cpp" />
