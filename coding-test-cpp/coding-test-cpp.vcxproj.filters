@@ -744,5 +744,8 @@
     <ClCompile Include="NumberOfPartialSequenceSum.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
+    <ClCompile Include="DeliveryBox.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
