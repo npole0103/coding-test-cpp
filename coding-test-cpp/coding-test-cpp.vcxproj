@@ -195,6 +195,7 @@
     <ClCompile Include="Cache.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
     <ClCompile Include="CheckOuterWall.cpp" />
+    <ClCompile Include="CuttingRollcake.cpp" />
     <ClCompile Include="DeliveryBox.cpp" />
     <ClCompile Include="EditingTable-VECTOR-TIMEOUT.cpp" />
     <ClCompile Include="EditingTable-SET-TIMEOUT.cpp" />
@@ -222,6 +223,7 @@
     <ClCompile Include="Greedy-ConnectingIsland.cpp" />
     <ClCompile Include="Greedy-Lifeboat.cpp" />
     <ClCompile Include="GroupPhoto.cpp" />
+    <ClCompile Include="HailSequenceIntegral.cpp" />
     <ClCompile Include="Hash-BestAlbumcpp.cpp" />
     <ClCompile Include="Hash-Camo.cpp" />
     <ClCompile Include="BF-Carpet.cpp" />
