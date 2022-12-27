@@ -197,6 +197,7 @@
     <ClCompile Include="CheckOuterWall.cpp" />
     <ClCompile Include="CuttingRollcake.cpp" />
     <ClCompile Include="DeliveryBox.cpp" />
+    <ClCompile Include="DivideNumberCard.cpp" />
     <ClCompile Include="EditingTable-VECTOR-TIMEOUT.cpp" />
     <ClCompile Include="EditingTable-SET-TIMEOUT.cpp" />
     <ClCompile Include="EditingTable.cpp" />
