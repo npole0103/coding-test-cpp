@@ -160,6 +160,7 @@
     <ClCompile Include="15683-Simulation.cpp" />
     <ClCompile Include="15686-Simulation.cpp" />
     <ClCompile Include="1654-BS.cpp" />
+    <ClCompile Include="1699-DP.cpp" />
     <ClCompile Include="1753-Graph.cpp" />
     <ClCompile Include="1806-TwoPointer.cpp" />
     <ClCompile Include="18808-Simulation.cpp" />

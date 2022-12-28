@@ -52,6 +52,9 @@
     <Filter Include="소스 파일\2022_YANOLJA">
       <UniqueIdentifier>{51c10a4c-f8cd-4204-9a65-450ab9652111}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BUCKET_PLACE">
+      <UniqueIdentifier>{01e8fb48-8107-4138-95f4-d5110ab585ff}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A_Template.cpp">
@@ -755,6 +758,9 @@
     </ClCompile>
     <ClCompile Include="DivideNumberCard.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="1699-DP.cpp">
+      <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
