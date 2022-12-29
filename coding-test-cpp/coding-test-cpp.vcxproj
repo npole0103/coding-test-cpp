@@ -196,6 +196,7 @@
     <ClCompile Include="Cache.cpp" />
     <ClCompile Include="CandidateKey.cpp" />
     <ClCompile Include="CheckOuterWall.cpp" />
+    <ClCompile Include="ChoiceMandarine.cpp" />
     <ClCompile Include="CuttingRollcake.cpp" />
     <ClCompile Include="DeliveryBox.cpp" />
     <ClCompile Include="DivideNumberCard.cpp" />
