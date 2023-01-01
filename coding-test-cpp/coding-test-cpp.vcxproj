@@ -198,6 +198,7 @@
     <ClCompile Include="CheckOuterWall.cpp" />
     <ClCompile Include="ChoiceMandarine.cpp" />
     <ClCompile Include="CuttingRollcake.cpp" />
+    <ClCompile Include="DefenseGame.cpp" />
     <ClCompile Include="DeliveryBox.cpp" />
     <ClCompile Include="DivideNumberCard.cpp" />
     <ClCompile Include="DrawDot.cpp" />
