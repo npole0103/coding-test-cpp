@@ -173,6 +173,7 @@
     <ClCompile Include="2178-BFS.cpp" />
     <ClCompile Include="2217-Greedy.cpp" />
     <ClCompile Include="2468-BFS.cpp" />
+    <ClCompile Include="2493-Stack.cpp" />
     <ClCompile Include="2573-BFS.cpp" />
     <ClCompile Include="2644-BFS.cpp" />
     <ClCompile Include="2644-DFS.cpp" />
