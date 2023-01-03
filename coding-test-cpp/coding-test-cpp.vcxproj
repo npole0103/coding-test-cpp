@@ -184,6 +184,7 @@
     <ClCompile Include="7569-BFS.cpp" />
     <ClCompile Include="9205-DFS.cpp" />
     <ClCompile Include="9663-BackTracking.cpp" />
+    <ClCompile Include="9935-Stack.cpp" />
     <ClCompile Include="AEIOU.cpp" />
     <ClCompile Include="AnotherBit.cpp" />
     <ClCompile Include="5014-BFS.cpp" />
