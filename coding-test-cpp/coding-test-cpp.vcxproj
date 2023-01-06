@@ -257,6 +257,8 @@
     <ClCompile Include="LV2-2.cpp" />
     <ClCompile Include="LV3_1.cpp" />
     <ClCompile Include="LV3_2.cpp" />
+    <ClCompile Include="MagicElevator-FAIL.cpp" />
+    <ClCompile Include="MagicElevator.cpp" />
     <ClCompile Include="MoveBlock.cpp" />
     <ClCompile Include="NBinaryGame.cpp" />
     <ClCompile Include="NewsClustering.cpp" />
