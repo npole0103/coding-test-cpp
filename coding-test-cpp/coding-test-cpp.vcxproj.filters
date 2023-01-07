@@ -795,5 +795,8 @@
     <ClCompile Include="EmoticonSale.cpp">
       <Filter>소스 파일\KAKAO_BLIND</Filter>
     </ClCompile>
+    <ClCompile Include="PersonalInformationCollectionExpirationDate.cpp">
+      <Filter>소스 파일\KAKAO_BLIND</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

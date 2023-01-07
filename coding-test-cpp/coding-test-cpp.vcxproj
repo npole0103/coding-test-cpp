@@ -267,6 +267,7 @@
     <ClCompile Include="NumberOfPartialSequenceSum.cpp" />
     <ClCompile Include="OpenChattingRoom.cpp" />
     <ClCompile Include="PairOffRemove.cpp" />
+    <ClCompile Include="PersonalInformationCollectionExpirationDate.cpp" />
     <ClCompile Include="PlayingAloneMaster.cpp" />
     <ClCompile Include="PriorityQueue.cpp" />
     <ClCompile Include="Rank.cpp" />
