@@ -267,6 +267,8 @@
     <ClCompile Include="NumberGame.cpp" />
     <ClCompile Include="NumberOfPartialSequenceSum.cpp" />
     <ClCompile Include="OpenChattingRoom.cpp" />
+    <ClCompile Include="PackageDeliveryPickUp-FAIL.cpp" />
+    <ClCompile Include="PackageDeliveryPickUp.cpp" />
     <ClCompile Include="PairOffRemove.cpp" />
     <ClCompile Include="PersonalInformationCollectionExpirationDate.cpp" />
     <ClCompile Include="PlayingAloneMaster.cpp" />
