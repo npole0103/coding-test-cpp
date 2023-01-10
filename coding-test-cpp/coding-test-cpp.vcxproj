@@ -250,6 +250,7 @@
     <ClCompile Include="KM_1.cpp" />
     <ClCompile Include="KM_2.cpp" />
     <ClCompile Include="KM_3.cpp" />
+    <ClCompile Include="LcmOfN.cpp" />
     <ClCompile Include="LG_1.cpp" />
     <ClCompile Include="LG_2.cpp" />
     <ClCompile Include="LG_3.cpp" />
