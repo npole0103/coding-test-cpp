@@ -811,7 +811,10 @@
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
     <ClCompile Include="NQueen.cpp">
-      <Filter>소스 파일\KAKAO_BLIND</Filter>
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateJadenCaseString.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
