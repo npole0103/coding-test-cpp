@@ -52,7 +52,7 @@
     <Filter Include="소스 파일\2022_YANOLJA">
       <UniqueIdentifier>{51c10a4c-f8cd-4204-9a65-450ab9652111}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\BUCKET_PLACE">
+    <Filter Include="소스 파일\SHOW_ME_THE_CODE">
       <UniqueIdentifier>{01e8fb48-8107-4138-95f4-d5110ab585ff}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -814,6 +814,9 @@
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
     <ClCompile Include="CreateJadenCaseString.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixMultiplication.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
   </ItemGroup>
