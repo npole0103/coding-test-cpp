@@ -212,6 +212,7 @@
     <ClCompile Include="EditingTable-SET-TIMEOUT.cpp" />
     <ClCompile Include="EditingTable.cpp" />
     <ClCompile Include="EmoticonSale.cpp" />
+    <ClCompile Include="HanoiTop.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="NQueen.cpp" />
     <ClCompile Include="FindRoadGame.cpp" />
