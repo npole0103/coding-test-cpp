@@ -214,6 +214,7 @@
     <ClCompile Include="EmoticonSale.cpp" />
     <ClCompile Include="HanoiTop.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
+    <ClCompile Include="MergeTable-FAIL.cpp" />
     <ClCompile Include="NQueen.cpp" />
     <ClCompile Include="FindRoadGame.cpp" />
     <ClCompile Include="CollectSticker.cpp" />
