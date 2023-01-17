@@ -212,6 +212,7 @@
     <ClCompile Include="EditingTable-SET-TIMEOUT.cpp" />
     <ClCompile Include="EditingTable.cpp" />
     <ClCompile Include="EmoticonSale.cpp" />
+    <ClCompile Include="fibonacciNum.cpp" />
     <ClCompile Include="HanoiTop.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="MergeTable-FAIL.cpp" />
