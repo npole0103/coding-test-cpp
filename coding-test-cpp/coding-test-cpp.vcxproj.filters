@@ -828,5 +828,8 @@
     <ClCompile Include="fibonacciNum.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
+    <ClCompile Include="MakeMinValue.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
