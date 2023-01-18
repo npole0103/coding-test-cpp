@@ -216,6 +216,7 @@
     <ClCompile Include="HanoiTop.cpp" />
     <ClCompile Include="MakeMinValue.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
+    <ClCompile Include="MaxValueAndMinValue.cpp" />
     <ClCompile Include="MergeTable-FAIL.cpp" />
     <ClCompile Include="NQueen.cpp" />
     <ClCompile Include="FindRoadGame.cpp" />
