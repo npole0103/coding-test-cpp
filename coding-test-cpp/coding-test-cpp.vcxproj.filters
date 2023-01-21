@@ -834,5 +834,11 @@
     <ClCompile Include="MaxValueAndMinValue.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
+    <ClCompile Include="StandLineMethod-FAIL.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
+    <ClCompile Include="StandLineMethod.cpp">
+      <Filter>소스 파일\LEVLE_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

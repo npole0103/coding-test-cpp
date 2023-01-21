@@ -373,6 +373,8 @@
     <ClCompile Include="StackQueue-Printer-2.cpp" />
     <ClCompile Include="StackQueue-Printer.cpp" />
     <ClCompile Include="StackQueue-StockPrice.cpp" />
+    <ClCompile Include="StandLineMethod-FAIL.cpp" />
+    <ClCompile Include="StandLineMethod.cpp" />
     <ClCompile Include="SteppingStone-FAIL-1.cpp" />
     <ClCompile Include="SteppingStone-FAIL-2.cpp" />
     <ClCompile Include="SteppingStone-FAIL-3.cpp" />
