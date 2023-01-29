@@ -280,6 +280,7 @@
     <ClCompile Include="NewsClustering.cpp" />
     <ClCompile Include="NumberBlock.cpp" />
     <ClCompile Include="NumberGame.cpp" />
+    <ClCompile Include="NumberOf124World.cpp" />
     <ClCompile Include="NumberOfPartialSequenceSum.cpp" />
     <ClCompile Include="OpenChattingRoom.cpp" />
     <ClCompile Include="PackageDeliveryPickUp-FAIL.cpp" />
