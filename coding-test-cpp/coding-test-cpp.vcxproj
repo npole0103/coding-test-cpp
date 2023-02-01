@@ -215,6 +215,7 @@
     <ClCompile Include="EditingTable.cpp" />
     <ClCompile Include="EmoticonSale.cpp" />
     <ClCompile Include="fibonacciNum.cpp" />
+    <ClCompile Include="FindBigNumberInBack.cpp" />
     <ClCompile Include="FindLargestSquare.cpp" />
     <ClCompile Include="HanoiTop.cpp" />
     <ClCompile Include="Hopscotch.cpp" />
