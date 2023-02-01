@@ -202,6 +202,7 @@
     <ClCompile Include="CandidateKey.cpp" />
     <ClCompile Include="CheckOuterWall.cpp" />
     <ClCompile Include="ChoiceMandarine.cpp" />
+    <ClCompile Include="ConvertNumber.cpp" />
     <ClCompile Include="CorrectParentheses.cpp" />
     <ClCompile Include="CreateJadenCaseString.cpp" />
     <ClCompile Include="CuttingRollcake.cpp" />
