@@ -403,6 +403,7 @@
     <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="Level-Test-1.cpp" />
     <ClCompile Include="TableHashFunction.cpp" />
+    <ClCompile Include="TakeHotelRoom.cpp" />
     <ClCompile Include="TheFarthestNode.cpp" />
     <ClCompile Include="TheLongestPalindrome.cpp" />
     <ClCompile Include="ToothBrush.cpp" />
