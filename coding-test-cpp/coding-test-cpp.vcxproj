@@ -146,6 +146,7 @@
     <ClCompile Include="12018-Greedy.cpp" />
     <ClCompile Include="12865.cpp" />
     <ClCompile Include="13305-Greedy.cpp" />
+    <ClCompile Include="14502-BFS.cpp" />
     <ClCompile Include="14503-DFS.cpp" />
     <ClCompile Include="1459-Greedy.cpp" />
     <ClCompile Include="15649-BackTracking-Perm.cpp" />
