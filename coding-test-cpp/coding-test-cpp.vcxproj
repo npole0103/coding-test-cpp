@@ -169,6 +169,7 @@
     <ClCompile Include="1806-TwoPointer.cpp" />
     <ClCompile Include="18808-Simulation.cpp" />
     <ClCompile Include="1911-Greedy.cpp" />
+    <ClCompile Include="1918-Stack.cpp" />
     <ClCompile Include="2230-TwoPointer.cpp" />
     <ClCompile Include="2295-BS.cpp" />
     <ClCompile Include="1931-Greedy.cpp" />
