@@ -52,7 +52,7 @@
     <Filter Include="소스 파일\2022_YANOLJA">
       <UniqueIdentifier>{51c10a4c-f8cd-4204-9a65-450ab9652111}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\SHOW_ME_THE_CODE">
+    <Filter Include="소스 파일\2023_SPRING_CODING">
       <UniqueIdentifier>{01e8fb48-8107-4138-95f4-d5110ab585ff}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -899,6 +899,12 @@
     </ClCompile>
     <ClCompile Include="1865-Graph.cpp">
       <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="SC_1.cpp">
+      <Filter>소스 파일\2023_SPRING_CODING</Filter>
+    </ClCompile>
+    <ClCompile Include="SC_2.cpp">
+      <Filter>소스 파일\2023_SPRING_CODING</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
