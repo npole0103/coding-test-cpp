@@ -172,6 +172,7 @@
     <ClCompile Include="18808-Simulation.cpp" />
     <ClCompile Include="1911-Greedy.cpp" />
     <ClCompile Include="1918-Stack.cpp" />
+    <ClCompile Include="1926-BFS.cpp" />
     <ClCompile Include="2230-TwoPointer.cpp" />
     <ClCompile Include="2295-BS.cpp" />
     <ClCompile Include="1931-Greedy.cpp" />
@@ -428,6 +429,9 @@
     <ClCompile Include="Y_1.cpp" />
     <ClCompile Include="Y_2.cpp" />
     <ClCompile Include="Y_3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="1926-BFS.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
