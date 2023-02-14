@@ -17,7 +17,7 @@
 //int dy[4] = { 1, 0, -1, 0 };
 //
 //void bfs(int x, int y) {
-//    if (!board[x][y] || visited[x][y]) {
+//    if (board[x][y] == 0 || visited[x][y] == 1) {
 //        return;
 //    }
 //
@@ -34,7 +34,7 @@
 //            int nx = cur.first + dx[i];
 //            int ny = cur.second + dy[i];
 //
-//            if (0 < nx || 0 < ny || nx >= r || ny >= c) {
+//            if (nx < 0 || ny < 0 || nx >= r || ny >= c) {
 //                continue;
 //            }
 //
