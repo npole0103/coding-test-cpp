@@ -918,6 +918,9 @@
     <ClCompile Include="11724-UnionFInd.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
+    <ClCompile Include="5635-Implementation.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1926-BFS.h">
