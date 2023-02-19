@@ -235,6 +235,7 @@
     <ClCompile Include="MakeMinValue.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="MaxValueAndMinValue.cpp" />
+    <ClCompile Include="MazeEscape.cpp" />
     <ClCompile Include="MergeTable-FAIL.cpp" />
     <ClCompile Include="NextBiggerNumber.cpp" />
     <ClCompile Include="NQueen.cpp" />
