@@ -178,6 +178,7 @@
     <ClCompile Include="1926-BFS.cpp" />
     <ClCompile Include="1967-Tree.cpp" />
     <ClCompile Include="1991-Tree.cpp" />
+    <ClCompile Include="2206-BFS.cpp" />
     <ClCompile Include="2230-TwoPointer.cpp" />
     <ClCompile Include="2295-BS.cpp" />
     <ClCompile Include="1931-Greedy.cpp" />
