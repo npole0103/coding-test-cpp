@@ -145,6 +145,7 @@
     <ClCompile Include="11404-Floyd.cpp" />
     <ClCompile Include="11501-Greedy.cpp" />
     <ClCompile Include="11724-UnionFInd.cpp" />
+    <ClCompile Include="11725-Tree.cpp" />
     <ClCompile Include="1182-BackTracking-2.cpp" />
     <ClCompile Include="1182-BackTracking.cpp" />
     <ClCompile Include="12018-Greedy.cpp" />
