@@ -19,10 +19,10 @@
 //
 //int answer = 1e9;
 //
-//void bfs(int x, int y) {
+//void bfs(int x, int y, vector<vector<int>>& b, vector<vector<int>>& v) {
 //    queue<pair<int, int>> q;
 //    q.push({ x, y });
-//    visited[x][y] = 1;
+//    v[x][y] = 1;
 //
 //    while (!q.empty()) {
 //        pair<int, int> cur = q.front();
@@ -32,15 +32,15 @@
 //            int nx = cur.first + dx[i];
 //            int ny = cur.second + dy[i];
 //
-//            if (nx < 0 || ny < 0 || nx >= row || nx >= col) {
+//            if (nx < 0 || ny < 0 || nx >= row || ny >= col) {
 //                continue;
 //            }
 //
-//            if (visited[nx][ny] != 0 || board[nx][ny] == 1) {
+//            if (v[nx][ny] || b[nx][ny]) {
 //                continue;
 //            }
 //
-//            visited[nx][ny] = visited[cur.first][cur.second] + 1;
+//            v[nx][ny] = v[cur.first][cur.second] + 1;
 //            q.push({ nx, ny });
 //        }
 //    }
@@ -63,34 +63,32 @@
 //            }
 //        }
 //    }
+//    
+//    vector<vector<int>> b = board;
+//    vector<vector<int>> v = visited;
 //
-//    bfs(0, 0);
-//    answer = min(answer, visited[row - 1][col - 1]);
-//    vector<vector<int>> v(row, vector<int>(col, 0));
-//    visited = v;
+//    bfs(0, 0, b, v);
+//    if (v[row - 1][col - 1] != 0) {
+//        answer = min(answer, v[row - 1][col - 1]);
+//    }
 //
 //    for (int i = 0; i < walls.size(); i++) {
 //        int x = walls[i].first;
 //        int y = walls[i].second;
 //        
-//        board[x][y] = 0;
-//        bfs(0, 0);
-//        board[x][y] = 1;
+//        b = board;
+//        v = visited;
 //
-//        answer = min(answer, visited[row - 1][col - 1]);
+//        b[x][y] = 0;
+//        bfs(0, 0, b, v);
+//        b[x][y] = 1;
 //
-//        vector<vector<int>> v(row, vector<int>(col, 0));
-//        visited = v;
+//        if (v[row - 1][col - 1] != 0) {
+//            answer = min(answer, v[row - 1][col - 1]);
+//        }
 //    }
 //
-//    //for (int i = 0; i < row; i++) {
-//    //    for (int j = 0; j < col; j++) {
-//    //        cout << board[i][j] << " ";
-//    //    }
-//    //    cout << endl;
-//    //}
-//
-//    cout << answer << endl;
+//    cout << (answer == 1e9 ? -1 : answer) << endl;
 //
 //    return 0;
 //}
