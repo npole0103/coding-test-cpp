@@ -196,6 +196,7 @@
     <ClCompile Include="2785-Greedy.cpp" />
     <ClCompile Include="2885-Greedy.cpp" />
     <ClCompile Include="2891-Greedy.cpp" />
+    <ClCompile Include="52020-Implementaion.cpp" />
     <ClCompile Include="5635-Implementation.cpp" />
     <ClCompile Include="5800-Implementation.cpp" />
     <ClCompile Include="6198-Stack-FAIL.cpp" />
