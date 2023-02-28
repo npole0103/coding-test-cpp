@@ -9,88 +9,79 @@
 //#include <math.h>
 //using namespace std;
 //
-//int row, col;
-//vector<vector<int>> board;
-//vector<vector<int>> visited;
-//vector<pair<int, int>> walls;
+///*
+////https://ongveloper.tistory.com/124
 //
-//int dx[4] = { 1, 0, -1, 0 };
-//int dy[4] = { 0, 1, 0, -1 };
+//1.다음 칸이 벽이고 부술 수 있을 때면
 //
-//int answer = 1e9;
+// -벽을 부수었기 때문에 큐에 다음 칸의 좌표와 0을 넣어주고,
 //
-//void bfs(int x, int y, vector<vector<int>>& b, vector<vector<int>>& v) {
-//    queue<pair<int, int>> q;
-//    q.push({ x, y });
-//    v[x][y] = 1;
+// -벽이 부서진 상태의 다음 칸에 도착하는 데에 이동한 칸의 개수를 넣어준다.
+//
+//2.다음 칸이 벽이 아니고 아직 방문하지 않았다면
+//
+////해당 칸에 벽을 부수고 왔을 때, 부수지 않고 왔을 때 각각 비교하게 된다.
+//
+// -큐에 다음 칸의 좌표와 현재 벽을 부수었는지 상태를 그대로 넣어주고,
+//
+// -다음 칸에 현재 칸의 도착하는 데에 이동한 칸의 개수를 넣어준다.
+//
+//*/
+//
+//int r, c;
+//int dir[4][2] = { {0, 1}, {1, 0}, {0, -1}, {-1, 0} };
+//int visited[1000][1000][2];
+//
+//int bfs(int row, int col, vector<string>& graph) {
+//    queue<pair<pair<int, int>, int>> q;
+//    q.push({ { row, col }, 1 });
+//    visited[row][col][1] = 1;
 //
 //    while (!q.empty()) {
-//        pair<int, int> cur = q.front();
+//        pair<pair<int, int>, int> cur = q.front();
 //        q.pop();
 //
-//        for (int i = 0; i < 4; i++) {
-//            int nx = cur.first + dx[i];
-//            int ny = cur.second + dy[i];
-//
-//            if (nx < 0 || ny < 0 || nx >= row || ny >= col) {
-//                continue;
-//            }
-//
-//            if (v[nx][ny] || b[nx][ny]) {
-//                continue;
-//            }
-//
-//            v[nx][ny] = v[cur.first][cur.second] + 1;
-//            q.push({ nx, ny });
+//        if (cur.first.first == r - 1 && cur.first.second == c - 1) {
+//            return visited[cur.first.first][cur.first.second][cur.second];
 //        }
+//
+//        for (int i = 0; i < 4; i++) {
+//            int nx = cur.first.first + dir[i][0];
+//            int ny = cur.first.second + dir[i][1];
+//            int block = cur.second;
+//
+//            if (nx < 0 || ny < 0 || nx >= r || ny >= c) {
+//                continue;
+//            }
+//
+//            if (graph[nx][ny] == '1' && block) {
+//                visited[nx][ny][block - 1] = visited[cur.first.first][cur.first.second][block] + 1;
+//                q.push({ {nx, ny}, block - 1 });
+//            }
+//            else if (graph[nx][ny] == '0' && visited[nx][ny][block] == 0) {
+//                visited[nx][ny][block] = visited[cur.first.first][cur.first.second][block] + 1;
+//                q.push({ { nx, ny }, block });
+//            }
+//        }
+//
 //    }
+//
+//    return -1;
 //}
 //
 //int main() {
-//    
-//    cin >> row >> col;
+//    ios::sync_with_stdio(false);
+//    cout.tie(NULL);
+//    cin.tie(NULL);
 //
-//    board.resize(row, vector<int>(col, 0));
-//    visited.resize(row, vector<int>(col, 0));
-//    
-//    string temp;
-//    for (int i = 0; i < row; i++) {
-//        cin >> temp;
-//        for (int j = 0; j < temp.size(); j++) {
-//            board[i][j] = temp[j] - 48;
-//            if (board[i][j] == 1) {
-//                walls.push_back({ i, j });
-//            }
-//        }
+//    cin >> r >> c;
+//
+//    vector<string> graph(r);
+//
+//    for (int i = 0; i < r; i++) {
+//        cin >> graph[i];
 //    }
-//    
-//    vector<vector<int>> b = board;
-//    vector<vector<int>> v = visited;
-//
-//    bfs(0, 0, b, v);
-//    if (v[row - 1][col - 1] != 0) {
-//        answer = min(answer, v[row - 1][col - 1]);
-//    }
-//
-//    for (int i = 0; i < walls.size(); i++) {
-//        int x = walls[i].first;
-//        int y = walls[i].second;
-//        
-//        b = board;
-//        v = visited;
-//
-//        b[x][y] = 0;
-//        bfs(0, 0, b, v);
-//        b[x][y] = 1;
-//
-//        if (v[row - 1][col - 1] != 0) {
-//            answer = min(answer, v[row - 1][col - 1]);
-//        }
-//    }
-//
-//    cout << (answer == 1e9 ? -1 : answer) << endl;
+//    cout << bfs(0, 0, graph);
 //
 //    return 0;
 //}
-//
-////나랑 비슷한 풀이 https://silver-g-0114.tistory.com/28

@@ -936,13 +936,16 @@
     <ClCompile Include="11725-Tree.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="2206-BFS.cpp">
+    <ClCompile Include="2206-BFS-TIMEOUT.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="5800-Implementation.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="52020-Implementaion.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2206-BFS.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
