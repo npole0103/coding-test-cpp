@@ -202,6 +202,7 @@
     <ClCompile Include="5800-Implementation.cpp" />
     <ClCompile Include="6198-Stack-FAIL.cpp" />
     <ClCompile Include="6198-Stack.cpp" />
+    <ClCompile Include="7562-BFS.cpp" />
     <ClCompile Include="7569-BFS.cpp" />
     <ClCompile Include="9205-DFS.cpp" />
     <ClCompile Include="9251-DP.cpp" />
