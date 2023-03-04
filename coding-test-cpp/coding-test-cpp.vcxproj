@@ -430,6 +430,8 @@
     <ClCompile Include="TakeHotelRoom.cpp" />
     <ClCompile Include="TheFarthestNode.cpp" />
     <ClCompile Include="TheLongestPalindrome.cpp" />
+    <ClCompile Include="TicTacToe-FAIL.cpp" />
+    <ClCompile Include="TicTacToe.cpp" />
     <ClCompile Include="ToothBrush.cpp" />
     <ClCompile Include="Traversal.cpp" />
     <ClCompile Include="TriangleSnail.cpp" />
