@@ -963,6 +963,9 @@
     <ClCompile Include="TicTacToe.cpp">
       <Filter>소스 파일\LEVLE_2</Filter>
     </ClCompile>
+    <ClCompile Include="2407-Math.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1926-BFS.h">

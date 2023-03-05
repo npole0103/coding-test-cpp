@@ -187,6 +187,7 @@
     <ClCompile Include="2012-Greedy.cpp" />
     <ClCompile Include="2178-BFS.cpp" />
     <ClCompile Include="2217-Greedy.cpp" />
+    <ClCompile Include="2407-Math.cpp" />
     <ClCompile Include="2468-BFS.cpp" />
     <ClCompile Include="2493-Stack.cpp" />
     <ClCompile Include="2563-Implementation.cpp" />
