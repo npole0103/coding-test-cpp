@@ -151,6 +151,7 @@
     <ClCompile Include="1182-BackTracking.cpp" />
     <ClCompile Include="12018-Greedy.cpp" />
     <ClCompile Include="12865.cpp" />
+    <ClCompile Include="1316-String.cpp" />
     <ClCompile Include="13305-Greedy.cpp" />
     <ClCompile Include="13549-BFS.cpp" />
     <ClCompile Include="14246-TwoPointer.cpp" />
