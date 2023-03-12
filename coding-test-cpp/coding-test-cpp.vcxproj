@@ -182,6 +182,7 @@
     <ClCompile Include="1966-Queue.cpp" />
     <ClCompile Include="1967-Tree.cpp" />
     <ClCompile Include="1991-Tree.cpp" />
+    <ClCompile Include="2167-DP.cpp" />
     <ClCompile Include="2960-Math.cpp" />
     <ClCompile Include="2206-BFS-TIMEOUT.cpp" />
     <ClCompile Include="2206-BFS.cpp" />
