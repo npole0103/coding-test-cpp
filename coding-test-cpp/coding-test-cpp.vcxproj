@@ -154,6 +154,7 @@
     <ClCompile Include="1316-String.cpp" />
     <ClCompile Include="13305-Greedy.cpp" />
     <ClCompile Include="13549-BFS.cpp" />
+    <ClCompile Include="1388-Implementation.cpp" />
     <ClCompile Include="14246-TwoPointer.cpp" />
     <ClCompile Include="14502-BFS.cpp" />
     <ClCompile Include="14503-DFS.cpp" />
