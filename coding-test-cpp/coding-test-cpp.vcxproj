@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="1026-Greedy.cpp" />
     <ClCompile Include="10773-Stack.cpp" />
+    <ClCompile Include="10815-DS.cpp" />
     <ClCompile Include="11053-DP.cpp" />
     <ClCompile Include="11404-Floyd.cpp" />
     <ClCompile Include="11501-Greedy.cpp" />
