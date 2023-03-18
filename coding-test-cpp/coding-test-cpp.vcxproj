@@ -144,6 +144,7 @@
     <ClCompile Include="10815-DS.cpp" />
     <ClCompile Include="11053-DP.cpp" />
     <ClCompile Include="11404-Floyd.cpp" />
+    <ClCompile Include="11444-Matrix.cpp" />
     <ClCompile Include="11501-Greedy.cpp" />
     <ClCompile Include="11660-DP.cpp" />
     <ClCompile Include="11724-UnionFInd.cpp" />
